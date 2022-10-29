@@ -1,1 +1,1 @@
-This is magical commands.
+This is magical commands in git base.
